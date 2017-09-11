@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello Ace</title>
+  </head>
+  <body>
+    <h1>layouts/_default/baseof.html</h1>
+	{{ block "main" . }}
+	{{ end }}
+	</body>
+</html>

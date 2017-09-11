@@ -1,0 +1,7 @@
+= doctype html
+html lang=en
+  head
+    title Hello Ace
+  body
+    h1 base template
+    = yield main
